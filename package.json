@@ -1,6 +1,6 @@
 {
     "name": "tk-layer",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "alert,confirm,tip,message,loading",
     "main": "index.js",
     "scripts": {
