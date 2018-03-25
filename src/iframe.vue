@@ -16,7 +16,7 @@
 
 <script>
 
-import TkButton from '../button';
+import TkButton from 'tk-button'
 export default {
     data() {
             return {

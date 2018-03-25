@@ -1,26 +1,29 @@
 {
-  "name": "tk-layer",
-  "version": "1.0.0",
-  "description": "alert,confirm,tip,message,loading",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mozuo/tk-layer.git"
-  },
-  "keywords": [
-    "loading",
-    "tip",
-    "alert",
-    "confirm",
-    "message"
-  ],
-  "author": "mozuo",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mozuo/tk-layer/issues"
-  },
-  "homepage": "https://github.com/mozuo/tk-layer#readme"
+    "name": "tk-layer",
+    "version": "1.0.0",
+    "description": "alert,confirm,tip,message,loading",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mozuo/tk-layer.git"
+    },
+    "devDependencies": {
+        "tk-button": "^1.0.1"
+    },
+    "keywords": [
+        "loading",
+        "tip",
+        "alert",
+        "confirm",
+        "message"
+    ],
+    "author": "mozuo",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/mozuo/tk-layer/issues"
+    },
+    "homepage": "https://github.com/mozuo/tk-layer#readme"
 }
