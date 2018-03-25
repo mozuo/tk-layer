@@ -245,4 +245,4 @@ let Notification = (function(vue) {
     return self;
 });
 
-module.exports = Notification;
+module.exports = { Notification: Notification };
