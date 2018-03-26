@@ -1,8 +1,11 @@
 //var notifaction = require('./notification.vue')
 import notifaction from "./notification.vue"
-let Notification = (function(vue) {
+
+//export default function() {}
+export function layer(vue) {
 
     //import notification from "./notification.vue"
+    debugger;
     let NotificationConstructor = vue.extend(notifaction);
     let self = {};
     const defOptions = {
@@ -243,6 +246,4 @@ let Notification = (function(vue) {
     }
 
     return self;
-});
-
-module.exports = { Notification: Notification };
+};

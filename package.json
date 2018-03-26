@@ -1,8 +1,8 @@
 {
     "name": "tk-layer",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "alert,confirm,tip,message,loading",
-    "main": "index.js",
+    "main": "src/notification.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
@@ -25,5 +25,7 @@
     "bugs": {
         "url": "https://github.com/mozuo/tk-layer/issues"
     },
-    "homepage": "https://github.com/mozuo/tk-layer#readme"
+    "homepage": "https://github.com/mozuo/tk-layer#readme",
+    "_from": "tk-layer@1.0.1",
+    "_resolved": "http://registry.npm.taobao.org/tk-layer/download/tk-layer-1.0.1.tgz"
 }
